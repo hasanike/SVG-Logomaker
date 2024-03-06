@@ -19,3 +19,5 @@ This module focused on building a Node.js command-line to generate a logo by tak
 ## Images 
 
 ## Deployed Link
+- Not applicable. Link to GitHub
+- https://github.com/hasanike/SVG-Logomaker
